@@ -1,3 +1,5 @@
+repo link: https://github.com/loopbackfailed/LP2
+repo raw: https://raw.githubusercontent.com/loopbackfailed/LP2/main/cs/ddos.py
 .
 ├── cs
 │   ├── ddos.py
